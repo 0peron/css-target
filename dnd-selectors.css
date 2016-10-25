@@ -1,0 +1,11 @@
+.foo li {
+  font-family: Arial;
+  color: red;
+  border: 1px solid green;
+}
+
+.bar > li {
+  font-family: georgia;
+  color: green;
+  border: 1px solid red;
+}
